@@ -1,0 +1,23 @@
+IA utilizada: Gemini (en su modo pro y usando la herramienta "aprendizaje guiado")
+
+prompt 1, pregunta 3:
+Me gustaria que me muestres brevemente la logica matematica que podria usar para crear un promedio y una varianza como funciones, las cuales cuenten con una funcion aparte que posea el vector muestra. No me des la respuesta inmediata
+
+promt 2, pregunta 3: 
+Me sugieres agregar agregar la libreria cstdio de C++ para imprimir los mensajes que den el resultado del promedio y la varianza?
+
+promt 3, pregunta 4:
+Ahora, no tiene relacion con la anterior pregunta. Me gustaria saber las herramientas que podria utilizar para crear una funcion en la cual deba relacionar los elementos de dos vectores. No puedo crear funciones las cuales cuenten con los vectores, debo hacerlo todo dentro de una misma funcion.
+
+promt 4, pregunta 4: 
+Aparte de que ambos vectores deben tener mismo tamaño y no deben estar vacios, deberia agregar alguna libreria para incluir mas herramientas?
+
+promt 5, pregunta 4:
+La salida: "return numerador / sqrt(suma_cuadradosA * suma_cuadradosB)" es la adecuada para esta funcion?
+
+promt 6, pregunta 5:
+Ahora, no tiene relacion con la anterior pregunta. Me gustaria entender como puedo llegar a agregar diferentes tipos de sistemas numericos (uno base 7, uno base 8, y uno base 12 que cuente del 0 al 9 y despues continue con letras). Lo necesito para crear funciones de converción.
+
+promt 7, pregunta 6: 
+Actualmente me interesa saber si puedo llegar a simplificar el codigo despues de crear los sistemas de conversion. asi para saber si tengo la capacidad de reciclar codigo con algunas de las conversiones a futuro (como la de base 7 a base 16)
+
